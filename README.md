@@ -74,11 +74,11 @@ The trained model and synthesized shape plots will be saved under directory `con
 
 ## Results
 
-<!-- Airfoil samples of training data:
+Airfoil samples of training data:
 
-<img src=samples_aoa.svg width="640">
+<img src=sample_train.svg width="640">
 
-Randomly generated airfoils:
+<!-- Randomly generated airfoils:
 
 <img src=synthesized_noise.svg width="640"> -->
 
