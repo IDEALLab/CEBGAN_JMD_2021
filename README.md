@@ -82,15 +82,15 @@ The trained model and synthesized shape plots will be saved under directory `con
 
 Reduction in instantaneous optimality gap:
 
-<img src=graph1_merged_250.pdf width="640">
+<img src=graph1_merged_250.svg width="640">
 
 Reduction in cumulative optimality gap:
 
-<img src=sample_train.svg width="640">
+<img src=graph3_merged_250.svg width="640">
 
 Reduction in cumulative optimality gap of an example airfoil:
 
-<img src=sample_train.svg width="640">
+<img src=cbegan_graph2.svg width="640">
 
 <!-- Randomly generated airfoils:
 
