@@ -1,8 +1,8 @@
 # CBGAN and CEBGAN for 2D Airfoil Inverse Design
 CEBGAN and airfoil optimization code associated with our accepted JMD 2021 paper: "Inverse Design of 2D Airfoils using Conditional Generative Models and Surrogate Log-Likelihoods."
 
-<!-- ![Alt text](/architecture1.svg)
-![Alt text](/architecture2.svg) -->
+![Alt text](/cbgan_architecture.eps)
+<!-- ![Alt text](/architecture2.svg) -->
 
 ## License
 This code is licensed under the MIT license. Feel free to use all or portions for your research or related projects so long as you provide the following citation information:
