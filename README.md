@@ -32,7 +32,7 @@ Our airfoil designs are optimized airfoils in SU2. The original airfoils are gen
 
 [//]: <The raw data contains variable number of points along airfoil curves. We created the training data by applying [B-spline interpolation](https://github.com/IDEALLab/airfoil-interpolation) on these designs and removed outlier designs.>
 
-## CFD solver
+## CFD solver and airfoil optimization
 
 We use [SU2](https://su2code.github.io/) as the CFD solver to evaluate the performance of the airfoil design.
 
