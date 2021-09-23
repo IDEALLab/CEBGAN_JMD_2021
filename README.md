@@ -74,7 +74,21 @@ The trained model and synthesized shape plots will be saved under directory `con
 
 ## Results
 
-Airfoil samples of training data:
+### Airfoil samples of training data:
+
+<img src=sample_train.svg width="640">
+
+### Quantitative performance of conditional GANs:
+
+Reduction in instantaneous optimality gap:
+
+<img src=graph1_merged_250.pdf width="640">
+
+Reduction in cumulative optimality gap:
+
+<img src=sample_train.svg width="640">
+
+Reduction in cumulative optimality gap of an example airfoil:
 
 <img src=sample_train.svg width="640">
 
