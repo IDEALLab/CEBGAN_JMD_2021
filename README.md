@@ -96,6 +96,6 @@ Reduction in cumulative optimality gap of an example airfoil:
 
 <img src=synthesized_noise.svg width="640"> -->
 
-
+### Practicability of the Surrogate Log-Likelihood
 
 
